@@ -1,7 +1,9 @@
 ---
-title: "Binary Search Tree"
+title: "binary search trees (BST)"
 date: 2022-01-31T20:45:33-06:00
 draft: false
+tags:
+- datastructures
 ---
 
 

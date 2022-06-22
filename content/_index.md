@@ -1,4 +1,4 @@
-Hi
+hi
 ===
 
 [Algorithms](./algorithms/)
